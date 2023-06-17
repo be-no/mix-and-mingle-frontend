@@ -27,9 +27,9 @@
 
 ### A list of installation steps for the app itself and any dependencies - how would another developer run your site locally?
 > frontend and backend: npm i
-> mix-and-mingle-frontend: npm start
+> mix-and-mingle-frontend > web-app: npm start
 > mix-and-mingle-backend: . venv/bin/activate               
-> > mix-and-mingle-backend: python3 app.py
+> mix-and-mingle-backend: python3 app.py
 
 ### Descriptions of any unsolved problems or future features.
 > Future features: user authentication, sharing document with other people
