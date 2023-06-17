@@ -1,9 +1,9 @@
 # mix-and-mingle-frontend
 
-## A paragraph-long description (elevator pitch) of your project.
+### A paragraph-long description (elevator pitch) of your project.
 >
 
-## A list of the technologies used.
+### A list of the technologies used.
 >
 
 ## A list of installation steps for the app itself and any dependencies - how would another developer run your site locally?
